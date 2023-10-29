@@ -2,4 +2,4 @@
 
 # weather app
 
-Live [https://weather-anuapan9.netlify.app/](Live)
+Live [Live](https://weather-anuapan9.netlify.app/)
